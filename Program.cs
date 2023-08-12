@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//Stefeson
+Console.Clear();
+Console.WriteLine("Esnobar");
+Console.WriteLine("É exigir café fervendo");
+Console.WriteLine("E deixar esfriar.");
